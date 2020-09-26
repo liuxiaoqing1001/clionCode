@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liu/CLionProjects/C++-liu/MyWork/C-R/compiler.c
+stdio.h
+-
+stdlib.h
+-
+malloc.h
+-
+string.h
+-
+stdbool.h
+-
+
+/home/liu/CLionProjects/C++-liu/MyWork/C-R/revolver.c
+stdio.h
+-
+string.h
+-
+
+/home/liu/CLionProjects/C++-liu/main.c
+

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Expert"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/liu/CLionProjects/Exersise/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/liu/CLionProjects/Exersise/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/liu/CLionProjects/Exersise/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/liu/CLionProjects/Exersise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/liu/CLionProjects/Exersise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/liu/CLionProjects/Exersise/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/liu/CLionProjects/Exersise/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/liu/CLionProjects/Exersise/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/liu/CLionProjects/Exersise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/liu/CLionProjects/Exersise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/liu/CLionProjects/Exersise/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/liu/CLionProjects/Exersise/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/liu/CLionProjects/Exersise/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/liu/CLionProjects/Exersise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/liu/CLionProjects/Exersise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Expert">
+				<Option output="/home/liu/CLionProjects/Exersise/cmake-build-debug/Expert" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/CLionProjects/Exersise/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/liu/CLionProjects/Exersise/cmake-build-debug/Makefile&quot;  VERBOSE=1 Expert"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/liu/CLionProjects/Exersise/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/liu/CLionProjects/Exersise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/liu/CLionProjects/Exersise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Expert/fast">
+				<Option output="/home/liu/CLionProjects/Exersise/cmake-build-debug/Expert" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/CLionProjects/Exersise/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/liu/CLionProjects/Exersise/cmake-build-debug/Makefile&quot;  VERBOSE=1 Expert/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/liu/CLionProjects/Exersise/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/liu/CLionProjects/Exersise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/liu/CLionProjects/Exersise/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/liu/CLionProjects/Exersise/Algorithm/KnapsackProblem.cpp">
+			<Option target="Expert"/>
+		</Unit>
+		<Unit filename="/home/liu/CLionProjects/Exersise/Algorithm/LCS.cpp">
+			<Option target="Expert"/>
+		</Unit>
+		<Unit filename="/home/liu/CLionProjects/Exersise/Algorithm/Matrix_Chain.cpp">
+			<Option target="Expert"/>
+		</Unit>
+		<Unit filename="/home/liu/CLionProjects/Exersise/Algorithm/Sudu.cpp">
+			<Option target="Expert"/>
+		</Unit>
+		<Unit filename="/home/liu/CLionProjects/Exersise/Algorithm/Test_1.cpp">
+			<Option target="Expert"/>
+		</Unit>
+		<Unit filename="/home/liu/CLionProjects/Exersise/Algorithm/Test_2.cpp">
+			<Option target="Expert"/>
+		</Unit>
+		<Unit filename="/home/liu/CLionProjects/Exersise/Data/Bisearch.cpp">
+			<Option target="Expert"/>
+		</Unit>
+		<Unit filename="/home/liu/CLionProjects/Exersise/Data/FindSort.cpp">
+			<Option target="Expert"/>
+		</Unit>
+		<Unit filename="/home/liu/CLionProjects/Exersise/Data/GraphByList.cpp">
+			<Option target="Expert"/>
+		</Unit>
+		<Unit filename="/home/liu/CLionProjects/Exersise/Data/GraphByMatrix.cpp">
+			<Option target="Expert"/>
+		</Unit>
+		<Unit filename="/home/liu/CLionProjects/Exersise/Data/LinkList.cpp">
+			<Option target="Expert"/>
+		</Unit>
+		<Unit filename="/home/liu/CLionProjects/Exersise/Data/Tree.cpp">
+			<Option target="Expert"/>
+		</Unit>
+		<Unit filename="/home/liu/CLionProjects/Exersise/OS/Bank.cpp">
+			<Option target="Expert"/>
+		</Unit>
+		<Unit filename="/home/liu/CLionProjects/Exersise/OS/Job.cpp">
+			<Option target="Expert"/>
+		</Unit>
+		<Unit filename="/home/liu/CLionProjects/Exersise/OS/SpaceAllocation.cpp">
+			<Option target="Expert"/>
+		</Unit>
+		<Unit filename="/home/liu/CLionProjects/Exersise/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

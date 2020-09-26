@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liu/CLionProjects/LiuCpp/Test/Test.cpp
+
+/home/liu/CLionProjects/LiuCpp/Test/Union.cpp
+iostream
+-
+
+/home/liu/CLionProjects/LiuCpp/Work/Counter.cpp
+
+/home/liu/CLionProjects/LiuCpp/Work/MapByList.cpp
+
+/home/liu/CLionProjects/LiuCpp/Work/Rec_MaxMin.cpp
+
+/home/liu/CLionProjects/LiuCpp/Work/StuAndTeaByList.cpp
+
+/home/liu/CLionProjects/LiuCpp/Work/StuAndTeaByMap.cpp
+
+/home/liu/CLionProjects/LiuCpp/Work/TestOnClass.cpp
+iostream
+-
+
+/home/liu/CLionProjects/LiuCpp/Work/VectorByArray.cpp
+
+/home/liu/CLionProjects/LiuCpp/main.cpp
+

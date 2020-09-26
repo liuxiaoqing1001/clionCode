@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liu/CLionProjects/Exersise/Algorithm/KnapsackProblem.cpp
+
+/home/liu/CLionProjects/Exersise/Algorithm/LCS.cpp
+stdio.h
+-
+iostream
+-
+
+/home/liu/CLionProjects/Exersise/Algorithm/Matrix_Chain.cpp
+
+/home/liu/CLionProjects/Exersise/Algorithm/Sudu.cpp
+
+/home/liu/CLionProjects/Exersise/Algorithm/Test_1.cpp
+
+/home/liu/CLionProjects/Exersise/Algorithm/Test_2.cpp
+
+/home/liu/CLionProjects/Exersise/Data/Bisearch.cpp
+
+/home/liu/CLionProjects/Exersise/Data/FindSort.cpp
+
+/home/liu/CLionProjects/Exersise/Data/GraphByList.cpp
+
+/home/liu/CLionProjects/Exersise/Data/GraphByMatrix.cpp
+
+/home/liu/CLionProjects/Exersise/Data/LinkList.cpp
+
+/home/liu/CLionProjects/Exersise/Data/Tree.cpp
+
+/home/liu/CLionProjects/Exersise/OS/Bank.cpp
+
+/home/liu/CLionProjects/Exersise/OS/Job.cpp
+
+/home/liu/CLionProjects/Exersise/OS/SpaceAllocation.cpp
+
